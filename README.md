@@ -1,6 +1,6 @@
 ## ⚡ ⚡ Olá, Seja Bem-Vindo ao meu Perfil no Github.⚡⚡ 
 
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-aa488418b/)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gust4_s4ntos/)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-moreira-aa488418b/)[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gust4_s4ntos/)[![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavosantosmoreira52@gmail.com)
 
 <div align="left">
   <a href="https://github.com/GustavoMoreiraDev">
