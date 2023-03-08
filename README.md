@@ -29,7 +29,7 @@
 ## Sobre mim
 - Front-End Developer.⚡
 - Estudante de Analise e Desenvolvimento de Sistemas pela Universidade Positivo.⚡
-- 21 years.⚡
+- 23 years.⚡
 - Musico Multi-instrumentista.⚡
 
 
