@@ -15,10 +15,10 @@ Atualmente atuo na construção de interfaces performáticas com React/Next.js, 
 
 ## Stack principal
 
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS  
-- **Backend:** Node.js, PHP (Laravel / legado)  
-- **Banco de dados:** MySQL, SQL Server  
-- **Infra:** Docker, Nginx  
+- **Frontend:** React, Next, Nuxt, Gatsby, React Native, Expo, Blade, TailwindCSS, Shadcn-UI,   
+- **Backend:** Node, Laravel, Bun, Nest  
+- **Banco de dados:** MySQL, SQL, postgreSQL, SQLite, MongoDB, SimpleDB, Redis, Memcached
+- **Infra:** Docker, Nginx, AWS, Azure,
 - **Outros:** APIs REST, SSR, autenticação, integração com serviços externos  
 
 ---
